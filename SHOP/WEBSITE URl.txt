@@ -1,0 +1,8 @@
+HOODIE1 = https://www.aliexpress.com/item/32922170247.html?spm=a2g0o.productlist.0.0.607c6871YFB01r&algo_pvid=5bb770b9-11e8-4d51-9de2-7826d318519a&algo_expid=5bb770b9-11e8-4d51-9de2-7826d318519a-0&btsid=cfc43402-2d6e-45c6-a887-e2c17b08de0d&ws_ab_test=searchweb0_0,searchweb201602_5,searchweb201603_53
+
+HOODIE2 = https://www.aliexpress.com/item/32814530965.html?spm=a2g0o.productlist.0.0.607c6871YFB01r&algo_pvid=5bb770b9-11e8-4d51-9de2-7826d318519a&algo_expid=5bb770b9-11e8-4d51-9de2-7826d318519a-3&btsid=cfc43402-2d6e-45c6-a887-e2c17b08de0d&ws_ab_test=searchweb0_0,searchweb201602_5,searchweb201603_53
+
+HOODIE3 = https://www.aliexpress.com/item/32942808985.html?spm=a2g0o.productlist.0.0.607c6871YFB01r&algo_pvid=5bb770b9-11e8-4d51-9de2-7826d318519a&algo_expid=5bb770b9-11e8-4d51-9de2-7826d318519a-2&btsid=cfc43402-2d6e-45c6-a887-e2c17b08de0d&ws_ab_test=searchweb0_0,searchweb201602_5,searchweb201603_53
+
+HOODIE4 = https://www.aliexpress.com/item/32819320674.html?spm=a2g0o.productlist.0.0.607c6871YFB01r&algo_pvid=5bb770b9-11e8-4d51-9de2-7826d318519a&algo_expid=5bb770b9-11e8-4d51-9de2-7826d318519a-14&btsid=cfc43402-2d6e-45c6-a887-e2c17b08de0d&ws_ab_test=searchweb0_0,searchweb201602_5,searchweb201603_53
+
